@@ -1,1 +1,3 @@
-# Simple-python
+Simple py
+name = input("Enter your name: ")
+print(f"Hello {name}, have a nice day")
